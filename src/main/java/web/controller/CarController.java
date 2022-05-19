@@ -9,7 +9,6 @@ import org.springframework.web.bind.annotation.RequestParam;
 import web.models.Car;
 import web.service.CarService;
 
-import java.util.ArrayList;
 import java.util.List;
 
 @Controller
